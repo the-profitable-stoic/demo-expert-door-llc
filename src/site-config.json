@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Expert Door LLC",
+    "phone": "+12162244899",
+    "category": "garage door repair",
+    "city": "Cleveland",
+    "state": "OH"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-mountain-bold",
+      "categoryGroup": "roofing",
+      "name": "Mountain Bold",
+      "recipeFile": "roofing/mountain-bold.astro",
+      "colors": {
+        "primary": "#1A3A52",
+        "primaryDark": "#0F2436",
+        "primaryLight": "#C8DDE8",
+        "secondary": "#2D5F7C",
+        "accent": "#FFC600",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1A3A52",
+        "surface": "#F0F4F7",
+        "text": "#0F172A",
+        "textLight": "#64748B",
+        "textOnDark": "#FFFFFF",
+        "border": "#D1D5DB"
+      },
+      "typography": {
+        "headingFont": "Plus Jakarta Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "medium"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/mountain-bold"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Cleveland's Garage Door Experts",
+      "heroSubline": "Reliable repairs and installations. Serving Cleveland and surrounding communities with integrity and skill.",
+      "aboutTitle": "Your Trusted Garage Door Partner in Cleveland",
+      "aboutText": [
+        "Expert Door LLC was founded on a simple principle: provide honest, reliable garage door services to our neighbors in Cleveland. We saw a need for a contractor that homeowners could trust, one that wouldn't cut corners or overcharge for essential repairs.",
+        "Our approach is straightforward: diagnose the problem accurately, explain the options clearly, and execute the repair or installation with precision. We value transparency and open communication, ensuring you're informed every step of the way. We use durable parts built to withstand Cleveland's harsh winters.",
+        "We're proud to be a part of the Cleveland community. We support local initiatives and strive to give back whenever possible. Our commitment extends beyond just fixing garage doors; it's about building lasting relationships with our customers."
+      ],
+      "valueProps": [
+        {
+          "title": "Fast Response Times",
+          "description": "We understand garage door issues can be urgent. We prioritize prompt service to minimize disruption."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team is comprised of highly trained and experienced technicians who are equipped to handle any garage door problem."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "We provide clear and honest pricing before we begin any work, so you know exactly what to expect."
+        },
+        {
+          "title": "Quality Parts",
+          "description": "We use only durable, high-quality parts that are built to last, even in Cleveland's challenging climate."
+        }
+      ],
+      "ctaHeadline": "Need Garage Door Help?",
+      "ctaSubline": "Call Expert Door LLC today for fast, reliable service: +12162244899"
+    },
+    "services": [
+      {
+        "slug": "garage-door-spring-repair",
+        "name": "Garage Door Spring Repair",
+        "shortDescription": "Fast and reliable garage door spring repair services for all types of doors.",
+        "description": "Garage door springs are under immense tension and are crucial for the safe and smooth operation of your door. When a spring breaks, it can cause the door to become unbalanced or even inoperable. Attempting to repair or replace springs yourself can be extremely dangerous. Our trained technicians at Expert Door LLC have the expertise and equipment to safely and efficiently handle spring repairs.\n\nWe carry a wide range of high-quality springs to match your specific door type and weight. We'll assess the damage, replace the broken spring with a durable replacement, and ensure the door is properly balanced and aligned. We understand the urgency of spring repairs, especially during Cleveland's harsh winters when a malfunctioning garage door can expose your home to the elements. We prioritize these calls to get your door back in working order quickly.\n\nWhether you have torsion springs or extension springs, we have the knowledge and experience to get the job done right. We'll also inspect the other components of your garage door system to identify any potential issues before they become major problems. Trust Expert Door LLC for safe, reliable garage door spring repair services in Cleveland.",
+        "process": [
+          "Step 1: Safety Assessment – We prioritize safety and carefully assess the condition of the broken spring and the surrounding components.",
+          "Step 2: Spring Removal – Using specialized tools, we safely remove the damaged spring, ensuring no further damage to the door or hardware.",
+          "Step 3: Spring Replacement – We install a new, high-quality spring that matches the specifications of your door.",
+          "Step 4: Balance and Alignment – We meticulously balance the door and align it to ensure smooth and safe operation."
+        ],
+        "benefits": [
+          "Safe and reliable spring replacement",
+          "Proper door balance and alignment",
+          "Extended lifespan of your garage door",
+          "Reduced risk of future problems"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Common signs include a loud bang, a visible gap in the spring, or a garage door that is difficult or impossible to open."
+          },
+          {
+            "question": "Can I replace the garage door spring myself?",
+            "answer": "Replacing garage door springs is extremely dangerous and should only be performed by trained professionals. The springs are under high tension and can cause serious injury if mishandled."
+          },
+          {
+            "question": "How long does it take to replace a garage door spring?",
+            "answer": "In most cases, we can replace a garage door spring in under an hour. The exact time will depend on the type of spring and the complexity of the repair."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Expert repair of all major garage door opener brands and models.",
+        "description": "A malfunctioning garage door opener can be a major inconvenience and a security risk. Whether your opener is making strange noises, refusing to open or close, or experiencing intermittent problems, Expert Door LLC can diagnose and repair the issue quickly and efficiently. We service all major brands, including LiftMaster, Chamberlain, Genie, and more.\n\nOur experienced technicians understand the complex mechanics of garage door openers and can identify the root cause of the problem, whether it's a faulty motor, a damaged circuit board, or a misaligned sensor. We carry a wide range of replacement parts to ensure we can complete the repair on the spot. We also offer preventative maintenance services to keep your opener running smoothly and prevent future breakdowns.\n\nGiven Cleveland's frequent power outages, we also specialize in backup battery solutions for your garage door opener. This ensures you can still operate your door even when the power is out. Don't let a broken garage door opener disrupt your day. Call Expert Door LLC for fast, reliable repair services.",
+        "process": [
+          "Step 1: Diagnostic Assessment – We thoroughly inspect the opener to identify the source of the problem.",
+          "Step 2: Component Testing – We test the motor, sensors, and other components to pinpoint the faulty part.",
+          "Step 3: Repair or Replacement – We repair or replace the damaged component with a high-quality replacement part.",
+          "Step 4: Safety Check – We perform a comprehensive safety check to ensure the opener is functioning properly and safely."
+        ],
+        "benefits": [
+          "Fast and reliable opener repair",
+          "Extended lifespan of your opener",
+          "Improved security of your home",
+          "Convenient and hassle-free operation"
+        ],
+        "faq": [
+          {
+            "question": "My garage door opener is making a grinding noise. What could be the problem?",
+            "answer": "A grinding noise often indicates a problem with the motor or gears. It's important to have it inspected by a professional to prevent further damage."
+          },
+          {
+            "question": "My garage door opener won't close. What should I do?",
+            "answer": "Check the safety sensors at the bottom of the door. Make sure they are clean and aligned. If the problem persists, call us for assistance."
+          },
+          {
+            "question": "Do you offer emergency garage door opener repair?",
+            "answer": "Yes, we offer emergency repair services to address urgent issues and ensure your security."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Professional repair and replacement of damaged garage door cables.",
+        "description": "Garage door cables play a critical role in lifting and lowering your door safely. Over time, these cables can fray, weaken, or even break, especially with Cleveland's fluctuating temperatures causing expansion and contraction. A broken cable can cause the door to become unbalanced and potentially dangerous. Expert Door LLC provides expert cable repair and replacement services to ensure your door operates safely and smoothly.\n\nOur trained technicians have the experience and equipment to safely handle cable repairs. We use only high-quality cables that are designed to withstand the rigors of daily use. We'll carefully inspect the entire system to identify any other potential problems and ensure the door is properly aligned and balanced. Attempting to repair cables yourself can be dangerous due to the high tension involved. Trust the professionals at Expert Door LLC to get the job done right.\n\nWe understand that a broken cable can be a major inconvenience. That's why we offer fast and reliable service to get your door back in working order as quickly as possible.",
+        "process": [
+          "Step 1: Safety Precautions – We take all necessary safety precautions to prevent injury during the repair process.",
+          "Step 2: Cable Removal – We carefully remove the damaged cable from the drum and brackets.",
+          "Step 3: Cable Installation – We install a new, high-quality cable that is properly tensioned and secured.",
+          "Step 4: System Inspection – We inspect the entire garage door system to ensure proper operation."
+        ],
+        "benefits": [
+          "Safe and reliable cable replacement",
+          "Improved door balance and alignment",
+          "Extended lifespan of your garage door",
+          "Reduced risk of accidents"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door cable is broken?",
+            "answer": "Signs of a broken cable include a visibly frayed or broken cable, a garage door that is unbalanced, or a door that is difficult to open or close."
+          },
+          {
+            "question": "Can I repair a garage door cable myself?",
+            "answer": "Garage door cable repair is dangerous and should only be performed by trained professionals due to the high tension involved."
+          },
+          {
+            "question": "How often should I replace my garage door cables?",
+            "answer": "Garage door cables should be inspected regularly and replaced as needed, typically every 5-7 years, depending on usage and condition."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-panel-replacement",
+        "name": "Garage Door Panel Replacement",
+        "shortDescription": "Replace damaged or dented garage door panels to restore your door's appearance.",
+        "description": "Garage door panels can become damaged due to accidents, weather, or general wear and tear. Dented, cracked, or warped panels not only detract from the appearance of your home but can also compromise the insulation and security of your garage. Expert Door LLC offers expert panel replacement services to restore the beauty and functionality of your garage door. We can source replacement panels that match your existing door's style and color, or we can help you choose a new design to upgrade your home's curb appeal.\n\nGiven Cleveland's proximity to Lake Erie, garage doors are susceptible to rust and corrosion, especially on lower panels. We offer rust-resistant panel options and can advise on preventative maintenance to prolong the life of your door. Our experienced technicians will carefully remove the damaged panels and install the new ones with precision, ensuring a seamless and professional finish. We handle all types of garage door panels, including steel, aluminum, wood, and fiberglass.\n\nDon't let damaged garage door panels detract from your home's value. Contact Expert Door LLC for a free estimate on panel replacement services.",
+        "process": [
+          "Step 1: Panel Assessment – We assess the damage to the panel and determine the best course of action.",
+          "Step 2: Panel Sourcing – We source a replacement panel that matches your existing door's style and color.",
+          "Step 3: Panel Removal – We carefully remove the damaged panel from the door.",
+          "Step 4: Panel Installation – We install the new panel with precision, ensuring a seamless and professional finish."
+        ],
+        "benefits": [
+          "Restored appearance of your garage door",
+          "Improved insulation and energy efficiency",
+          "Enhanced security of your garage",
+          "Increased home value"
+        ],
+        "faq": [
+          {
+            "question": "Can I replace just one panel of my garage door?",
+            "answer": "Yes, in most cases, we can replace individual panels without replacing the entire door."
+          },
+          {
+            "question": "How much does it cost to replace a garage door panel?",
+            "answer": "The cost of panel replacement depends on the type of panel, the size of the door, and the complexity of the job. Contact us for a free estimate."
+          },
+          {
+            "question": "Do you offer panel replacement for all types of garage doors?",
+            "answer": "Yes, we offer panel replacement for steel, aluminum, wood, and fiberglass garage doors."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-track-repair",
+        "name": "Garage Door Track Repair",
+        "shortDescription": "Expert repair and alignment of bent or damaged garage door tracks.",
+        "description": "The garage door tracks guide the movement of your door as it opens and closes. If the tracks become bent, misaligned, or damaged, the door can become difficult to operate, noisy, or even completely stuck. Expert Door LLC offers expert track repair and alignment services to ensure your door operates smoothly and safely. We'll carefully inspect the tracks, identify the source of the problem, and perform the necessary repairs to restore proper function.\n\nIn Cleveland, garage door tracks are often damaged by impacts from vehicles or shifting foundations due to the freeze-thaw cycle. We can straighten bent tracks, repair damaged sections, and ensure the tracks are properly aligned and secured to the wall. We also offer track replacement services if the damage is too severe to repair. Our experienced technicians have the tools and expertise to handle any track repair job, big or small.\n\nDon't let damaged garage door tracks cause further damage to your door or opener. Contact Expert Door LLC for fast and reliable track repair services.",
+        "process": [
+          "Step 1: Track Inspection – We thoroughly inspect the tracks to identify the source of the problem.",
+          "Step 2: Track Realignment – We realign the tracks to ensure proper door movement.",
+          "Step 3: Track Repair/Replacement – We repair or replace damaged sections of the track.",
+          "Step 4: Track Securing – We ensure the tracks are properly secured to the wall."
+        ],
+        "benefits": [
+          "Smooth and quiet door operation",
+          "Extended lifespan of your garage door",
+          "Reduced risk of further damage",
+          "Improved security"
+        ],
+        "faq": [
+          {
+            "question": "My garage door is making a loud grinding noise. Could it be the tracks?",
+            "answer": "Yes, a loud grinding noise can often indicate a problem with the tracks. It's important to have it inspected by a professional."
+          },
+          {
+            "question": "My garage door is off track. What should I do?",
+            "answer": "Do not attempt to operate the door if it is off track. Contact us for immediate assistance."
+          },
+          {
+            "question": "How much does it cost to repair garage door tracks?",
+            "answer": "The cost of track repair depends on the extent of the damage. Contact us for a free estimate."
+          }
+        ]
+      },
+      {
+        "slug": "garage-door-weather-stripping",
+        "name": "Garage Door Weather Stripping",
+        "shortDescription": "Professional installation and replacement of garage door weather stripping.",
+        "description": "Garage door weather stripping is essential for sealing the gap between your garage door and the floor, preventing drafts, water, and pests from entering your garage. Over time, weather stripping can become worn, cracked, or damaged, especially with Cleveland's harsh weather conditions. Expert Door LLC offers professional weather stripping installation and replacement services to keep your garage comfortable and secure. We use high-quality weather stripping that is designed to withstand the elements and provide a tight seal.\n\nProper weather stripping can help reduce energy costs by preventing heat loss in the winter and keeping your garage cooler in the summer. It can also help protect your belongings from water damage and pest infestations. Our experienced technicians will carefully install the weather stripping, ensuring a perfect fit and a tight seal. We offer a variety of weather stripping options to suit your specific needs and budget.\n\nDon't let drafts and pests invade your garage. Contact Expert Door LLC for expert weather stripping services.",
+        "process": [
+          "Step 1: Old Weather Stripping Removal – We carefully remove the old, damaged weather stripping.",
+          "Step 2: Surface Preparation – We clean the surface to ensure proper adhesion of the new weather stripping.",
+          "Step 3: New Weather Stripping Installation – We install the new weather stripping with precision, ensuring a tight seal.",
+          "Step 4: Seal Inspection – We inspect the seal to ensure proper functionality."
+        ],
+        "benefits": [
+          "Improved energy efficiency",
+          "Reduced drafts and water intrusion",
+          "Pest prevention",
+          "Increased comfort"
+        ],
+        "faq": [
+          {
+            "question": "Why is weather stripping important for my garage door?",
+            "answer": "Weather stripping helps seal the gap between the door and the floor, preventing drafts, water, and pests from entering your garage."
+          },
+          {
+            "question": "How often should I replace my garage door weather stripping?",
+            "answer": "Garage door weather stripping should be inspected regularly and replaced as needed, typically every 2-3 years."
+          },
+          {
+            "question": "What type of weather stripping is best for my garage door?",
+            "answer": "The best type of weather stripping depends on your specific needs and budget. We can recommend the best option for your door."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Cleveland",
+        "slug": "cleveland-oh",
+        "state": "OH",
+        "content": "Expert Door LLC is proud to provide top-quality garage door repair and installation services to the residents and businesses of Cleveland, Ohio. From the bustling downtown area to the historic neighborhoods, we understand the unique needs of our Cleveland customers. We offer a comprehensive range of services, including garage door spring replacement, opener repair, cable replacement, and new garage door installation. \n\nOur team of experienced and certified technicians is dedicated to providing prompt, reliable, and affordable service. We use only the highest quality parts and materials, and we stand behind our work with a satisfaction guarantee. Whether you're dealing with a broken spring, a malfunctioning opener, or simply want to upgrade your garage door, Expert Door LLC is here to help.",
+        "localContext": "Cleveland's diverse architecture, from Victorian homes in Ohio City to modern condos downtown, requires a garage door company that understands a variety of styles and needs.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Parma",
+          "Shaker Heights"
+        ]
+      },
+      {
+        "city": "Parma",
+        "slug": "parma-oh",
+        "state": "OH",
+        "content": "Expert Door LLC extends its expert garage door services to the vibrant community of Parma, Ohio. As one of Cleveland's largest suburbs, Parma presents a diverse range of homes and businesses, each with specific garage door requirements. We specialize in providing tailored solutions for all types of garage doors, from traditional steel doors to modern insulated models.\n\nOur Parma customers can rely on us for fast and efficient repairs, including spring replacement, opener repair, and cable repair. We also offer new garage door installation services, helping you enhance your home's curb appeal and security. Expert Door LLC is committed to providing exceptional customer service and competitive pricing to the residents of Parma.",
+        "localContext": "Parma's mix of established neighborhoods and growing commercial areas means a variety of garage door needs, from residential repairs to commercial installations.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Brooklyn",
+          "Seven Hills"
+        ]
+      },
+      {
+        "city": "Lakewood",
+        "slug": "lakewood-oh",
+        "state": "OH",
+        "content": "Expert Door LLC is a trusted provider of garage door repair and installation services in Lakewood, Ohio. Known for its beautiful lakefront views and historic homes, Lakewood presents unique challenges and opportunities for garage door services. We are experienced in working with a variety of garage door styles, from classic carriage house doors to contemporary designs.\n\nOur Lakewood customers can count on us for prompt and reliable service, including emergency repairs. We offer a full range of services, including spring replacement, opener repair, cable repair, and new garage door installation. Expert Door LLC is committed to providing exceptional customer service and competitive pricing to the residents of Lakewood.",
+        "localContext": "Lakewood's older housing stock often requires specialized garage door repairs and replacements, demanding expertise in historical designs.",
+        "nearbyAreas": [
+          "Cleveland",
+          "Rocky River",
+          "Brooklyn"
+        ]
+      },
+      {
+        "city": "Shaker Heights",
+        "slug": "shaker-heights-oh",
+        "state": "OH",
+        "content": "Expert Door LLC proudly serves the prestigious community of Shaker Heights, Ohio, providing expert garage door solutions for discerning homeowners. Known for its beautiful architecture and well-maintained properties, Shaker Heights demands the highest standards of quality and craftsmanship. We offer a wide range of garage door styles and materials to complement the unique character of Shaker Heights homes.\n\nOur services include garage door repair, spring replacement, opener repair, and new garage door installation. We are committed to providing exceptional customer service and using only the highest quality products. Expert Door LLC is the trusted choice for garage door services in Shaker Heights.",
+        "localContext": "Shaker Heights' commitment to architectural integrity means that garage door replacements must often adhere to strict aesthetic guidelines and historical accuracy.",
+        "nearbyAreas": [
+          "Cleveland Heights",
+          "University Heights",
+          "Beachwood"
+        ]
+      },
+      {
+        "city": "Euclid",
+        "slug": "euclid-oh",
+        "state": "OH",
+        "content": "Expert Door LLC extends its professional garage door services to Euclid, Ohio. We understand the specific needs of Euclid residents, from older homes to newer constructions. Our services include everything from emergency repairs to complete garage door installations. We pride ourselves on our quick response times and our commitment to customer satisfaction.\n\nWhether you need a simple spring replacement or a brand-new garage door opener, our team of experienced technicians is ready to help. We use only the highest quality parts and materials to ensure the longevity and reliability of our work. Trust Expert Door LLC for all your garage door needs in Euclid.",
+        "localContext": "Euclid's proximity to Lake Erie means that garage doors often face harsh weather conditions, requiring durable and weather-resistant materials.",
+        "nearbyAreas": [
+          "Wickliffe",
+          "Richmond Heights",
+          "Cleveland"
+        ]
+      },
+      {
+        "city": "Westlake",
+        "slug": "westlake-oh",
+        "state": "OH",
+        "content": "Expert Door LLC is dedicated to providing top-notch garage door services to the residents of Westlake, Ohio. As a thriving community with a mix of residential and commercial properties, Westlake requires a garage door company that can handle a wide range of needs. We offer comprehensive services, including garage door repair, spring replacement, opener repair, and new garage door installation.\n\nOur team of experienced technicians is committed to providing prompt, reliable, and affordable service. We use only the highest quality parts and materials, and we stand behind our work with a satisfaction guarantee. Whether you're dealing with a broken spring, a malfunctioning opener, or simply want to upgrade your garage door, Expert Door LLC is here to help Westlake residents.",
+        "localContext": "Westlake's growing business sector requires reliable commercial garage door services, including roll-up door repairs and high-speed door installations.",
+        "nearbyAreas": [
+          "Bay Village",
+          "North Olmsted",
+          "Rocky River"
+        ]
+      },
+      {
+        "city": "North Olmsted",
+        "slug": "north-olmsted-oh",
+        "state": "OH",
+        "content": "Expert Door LLC is proud to offer its expert garage door repair and installation services to the community of North Olmsted, Ohio. We understand the diverse needs of North Olmsted residents and businesses, and we are committed to providing top-quality service at competitive prices. Our services include garage door repair, spring replacement, opener repair, and new garage door installation.\n\nOur team of experienced technicians is dedicated to providing prompt, reliable, and affordable service. We use only the highest quality parts and materials, and we stand behind our work with a satisfaction guarantee. Whether you're dealing with a broken spring, a malfunctioning opener, or simply want to upgrade your garage door, Expert Door LLC is here to help.",
+        "localContext": "North Olmsted's mix of residential and commercial properties creates a diverse range of garage door needs, from residential repairs to commercial installations.",
+        "nearbyAreas": [
+          "Fairview Park",
+          "Olmsted Falls",
+          "Westlake"
+        ]
+      },
+      {
+        "city": "Strongsville",
+        "slug": "strongsville-oh",
+        "state": "OH",
+        "content": "Expert Door LLC is pleased to provide garage door services to Strongsville, Ohio. As a large suburb of Cleveland, Strongsville has a variety of homes that require different garage door solutions. We offer everything from basic maintenance to new installations. Our technicians are local and know the area well.\n\nWe focus on prompt service and quality workmanship. We always aim to exceed customer expectations. Reach out to us today for any garage door issues in Strongsville, OH. We are ready to help!",
+        "localContext": "Strongsville's family-oriented community means that garage door safety and reliability are paramount concerns for residents.",
+        "nearbyAreas": [
+          "North Royalton",
+          "Brunswick",
+          "Middleburg Heights"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Garage Door Spring Repair",
+        "text": "Expert Door LLC was fantastic! Our garage door spring broke on a Saturday morning, and they were able to come out within a couple of hours. The technician, Mike, was professional, knowledgeable, and had the repair done quickly. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Garage Door Opener Repair",
+        "text": "Our garage door opener stopped working after a power surge. Expert Door LLC diagnosed the problem quickly and replaced the faulty circuit board. The price was reasonable, and the service was excellent.",
+        "date": "2024-12-03"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Garage Door Cable Repair",
+        "text": "I was so impressed with the service from Expert Door LLC. One of my garage door cables snapped, and they were able to come out the same day. The technician was friendly and efficient, and he explained everything clearly before starting the work. Great service!",
+        "date": "2025-01-20"
+      },
+      {
+        "name": "Tom B.",
+        "rating": 5,
+        "service": "Garage Door Panel Replacement",
+        "text": "Expert Door LLC did an amazing job replacing a damaged panel on my garage door. They matched the color perfectly, and the new panel looks seamless. You can't even tell it was replaced. Very professional and reliable.",
+        "date": "2025-02-10"
+      },
+      {
+        "name": "Maria S.",
+        "rating": 4,
+        "service": "Garage Door Track Repair",
+        "text": "Our garage door was making a terrible noise, and it turned out the tracks were bent. Expert Door LLC came out and straightened the tracks, and now the door operates smoothly and quietly. Very happy with the service.",
+        "date": "2025-03-01"
+      },
+      {
+        "name": "Chris P.",
+        "rating": 5,
+        "service": "Garage Door Weather Stripping",
+        "text": "Expert Door LLC replaced the weather stripping on my garage door, and it made a huge difference! No more drafts coming in, and the garage is much warmer now. The installation was quick and professional. Highly recommend!",
+        "date": "2025-03-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Expert Door LLC | Cleveland Garage Door Repair",
+        "description": "Reliable garage door repair and installation services in Cleveland, OH. Fast response, experienced technicians, and upfront pricing."
+      },
+      "about": {
+        "title": "About Expert Door LLC | Cleveland Garage Door Experts",
+        "description": "Learn about Expert Door LLC, your trusted garage door partner in Cleveland. We offer reliable repairs, installations, and exceptional customer service."
+      },
+      "services": {
+        "title": "Garage Door Services | Expert Door LLC, Cleveland",
+        "description": "Expert Door LLC provides a full range of garage door services in Cleveland, including spring repair, opener repair, cable replacement, and more."
+      },
+      "contact": {
+        "title": "Contact Expert Door LLC | Cleveland Garage Door",
+        "description": "Contact Expert Door LLC for fast and reliable garage door service in Cleveland, OH. Call us today for a free estimate: +12162244899"
+      },
+      "reviews": {
+        "title": "Expert Door LLC Reviews | Cleveland Garage Door",
+        "description": "See what our customers are saying about Expert Door LLC. Read testimonials and reviews for our garage door services in Cleveland, OH."
+      },
+      "service-areas": {
+        "title": "Service Areas | Expert Door LLC, Cleveland",
+        "description": "Expert Door LLC provides garage door repair and installation services throughout Cleveland and surrounding communities in Northeast Ohio."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "garage-door-spring-repair": "/images/service-garage-door-spring-repair.webp",
+      "garage-door-opener-repair": "/images/service-garage-door-opener-repair.webp",
+      "garage-door-cable-repair": "/images/service-garage-door-cable-repair.webp",
+      "garage-door-panel-replacement": "/images/service-garage-door-panel-replacement.webp",
+      "garage-door-track-repair": "/images/service-garage-door-track-repair.webp",
+      "garage-door-weather-stripping": "/images/service-garage-door-weather-stripping.webp"
+    },
+    "servicesResponsive": {
+      "garage-door-spring-repair": {
+        "src": "/images/service-garage-door-spring-repair.webp",
+        "srcset": "/images/service-garage-door-spring-repair-400w.webp 400w, /images/service-garage-door-spring-repair-800w.webp 800w, /images/service-garage-door-spring-repair-1200w.webp 1200w, /images/service-garage-door-spring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-opener-repair": {
+        "src": "/images/service-garage-door-opener-repair.webp",
+        "srcset": "/images/service-garage-door-opener-repair-400w.webp 400w, /images/service-garage-door-opener-repair-800w.webp 800w, /images/service-garage-door-opener-repair-1200w.webp 1200w, /images/service-garage-door-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-cable-repair": {
+        "src": "/images/service-garage-door-cable-repair.webp",
+        "srcset": "/images/service-garage-door-cable-repair-400w.webp 400w, /images/service-garage-door-cable-repair-800w.webp 800w, /images/service-garage-door-cable-repair-1200w.webp 1200w, /images/service-garage-door-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-panel-replacement": {
+        "src": "/images/service-garage-door-panel-replacement.webp",
+        "srcset": "/images/service-garage-door-panel-replacement-400w.webp 400w, /images/service-garage-door-panel-replacement-800w.webp 800w, /images/service-garage-door-panel-replacement-1200w.webp 1200w, /images/service-garage-door-panel-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-track-repair": {
+        "src": "/images/service-garage-door-track-repair.webp",
+        "srcset": "/images/service-garage-door-track-repair-400w.webp 400w, /images/service-garage-door-track-repair-800w.webp 800w, /images/service-garage-door-track-repair-1200w.webp 1200w, /images/service-garage-door-track-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "garage-door-weather-stripping": {
+        "src": "/images/service-garage-door-weather-stripping.webp",
+        "srcset": "/images/service-garage-door-weather-stripping-400w.webp 400w, /images/service-garage-door-weather-stripping-800w.webp 800w, /images/service-garage-door-weather-stripping-1200w.webp 1200w, /images/service-garage-door-weather-stripping.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
